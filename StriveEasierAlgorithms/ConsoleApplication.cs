@@ -67,7 +67,8 @@ Please select you algorithm:
             BubbleSorter sortOurArray = new BubbleSorter();
             sortOurArray.Sort(unOrderedCollection, ascending);
             Console.WriteLine(String.Join(" | ", unOrderedCollection));
-            //foreach (int numbers in unOrderedCollection)
+
+                //foreach (int numbers in unOrderedCollection)
                 //{
                 //    Console.WriteLine(numbers);
                 //}
